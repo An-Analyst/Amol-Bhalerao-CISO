@@ -105,7 +105,7 @@ Model College, Thakurli
 
 ## KEY ACHIEVEMENTS
 
-✓ Successfully implemented SEBI CSCRF across multiple business units ensuring 100% compliance  
+✓ Successfully implemented SEBI CSCRF across multiple business units ensuring 98% compliance  
 ✓ Led enterprise-wide SoD remediation project across 18 critical applications  
 ✓ Established comprehensive security monitoring and incident response capabilities  
 ✓ Improved backup and restoration processes reducing operational risk exposure  
